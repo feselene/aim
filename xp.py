@@ -1,4 +1,4 @@
-import pydirectinput
+import pydirectinput # type: ignore
 import time
 
 def main():
